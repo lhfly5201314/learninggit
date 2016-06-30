@@ -9,4 +9,5 @@ create a new branch is quick
 
 another test
 
-Creating a new branch is quick & simple.
+Createing a new branch is quick AND simple
+>>>>>>> feaure1
