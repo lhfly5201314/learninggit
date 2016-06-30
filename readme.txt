@@ -8,3 +8,5 @@ Git tracks changes of files.
 create a new branch is quick
 
 another test
+
+Createing a new branch is quick AND simple
